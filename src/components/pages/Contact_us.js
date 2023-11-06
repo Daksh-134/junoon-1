@@ -99,6 +99,4 @@ const Contact_us = () => {
     </Fragment>
   );
 };
-
-
 export default Contact_us;
